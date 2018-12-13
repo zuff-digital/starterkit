@@ -1,0 +1,17 @@
+{
+  "name": "starterkit",
+  "version": "1.0.0",
+  "description": "yarn+webpack+babel+eslint+react",
+  "main": "src/index.js",
+  "repository": "https://github.com/zuffidries/starterkit.git",
+  "author": "zuffidries <zuffidries@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-serve": "^2.0.3"
+  }
+}
