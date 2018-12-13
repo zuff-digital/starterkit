@@ -1,3 +1,3 @@
-const $ = require('jquery');
+import $ from 'jquery';
 
 $('#main').html('SKEDDIAMO!');
